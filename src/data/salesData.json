@@ -1,0 +1,23 @@
+
+{
+  "stats": {
+    "revenue": 84500,
+    "users": 3240,
+    "orders": 1280,
+    "growth": 14.5
+  },
+  "monthlyRevenue": [
+    { "month": "Jan", "revenue": 4200, "orders": 80 },
+    { "month": "Feb", "revenue": 5800, "orders": 110 },
+    { "month": "Mar", "revenue": 7200, "orders": 140 },
+    { "month": "Apr", "revenue": 6100, "orders": 120 },
+    { "month": "May", "revenue": 8900, "orders": 175 },
+    { "month": "Jun", "revenue": 9400, "orders": 190 },
+    { "month": "Jul", "revenue": 7800, "orders": 155 },
+    { "month": "Aug", "revenue": 10200, "orders": 210 },
+    { "month": "Sep", "revenue": 11500, "orders": 230 },
+    { "month": "Oct", "revenue": 9800, "orders": 200 },
+    { "month": "Nov", "revenue": 13200, "orders": 260 },
+    { "month": "Dec", "revenue": 15400, "orders": 310 }
+  ]
+}
